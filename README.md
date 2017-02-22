@@ -1,5 +1,7 @@
 # dylan's personal display
 
+note: chrome for desktop preferred.
+
 > A Vue.js project
 
 ## Build Setup
