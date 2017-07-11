@@ -47,6 +47,8 @@ module.exports = {
     extensions: ['.js']
   },
   devServer: {
+    host:"127.0.0.1",
+    port:8813,
     historyApiFallback: true,
     noInfo: true
   },

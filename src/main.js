@@ -69,8 +69,6 @@ new Vue({
   render: h => h(App)
 });
 
-//cookie test
-document.cookie="name=kuma";
 
 
 
