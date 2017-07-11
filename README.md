@@ -9,6 +9,8 @@ note: chrome for desktop preferred.
 ``` bash
 # install dependencies
 npm install
+# or using yarn (recommended)
+yarn install 
 
 # serve with hot reload at localhost:8080
 npm run dev
